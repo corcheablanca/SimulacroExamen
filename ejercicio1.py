@@ -6,4 +6,4 @@ nume=10
 for i in range(0,nume+1):
      print(nume-i)
         
-print("Hasta la vista, Baby")
+print("Hasta la vista, Baby","ksjf")
